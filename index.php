@@ -3,7 +3,7 @@
 
 <div class="container">
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
-        <h3>Check your zodiac.</h3>
+        <h3>Check your zodiac GEM!!!.</h3>
         <p>
             Enter your birth year to know your Zodiac sign!
         </p>
